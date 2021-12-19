@@ -1,0 +1,89 @@
+#EXTM3U WATCH MORE ON OMOHAK TV
+#EXTINF:-1 group-title="USA| SPORTS",|US| NBA HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143080
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/CANADA/NBATV.png" group-title="CA| SPORTS |EN HD",(EN)  NBA TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66993
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 1 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66983
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 2 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66984
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 3 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66985
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 4 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66986
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 5 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66987
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 6 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66988
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 7 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66989
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 8 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66990
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 9 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66991
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="CA| SPORTS |EN HD",(EN) NBA League Pass 10 HD (CA)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66992
+#EXTINF:-1 group-title="USA|NBA TV HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143080
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 01 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/66993
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 14 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143145
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 13 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143144
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 12 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143143
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 11 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143142
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 10 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143141
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 09 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143140
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 08 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143139
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 07  HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143138
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 06  HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143137
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 05 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143136
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 04 HD US
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143135
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 03 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143134
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 02 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143133
+#EXTINF:-1 group-title="USA| PPV",NBA League Pass 01 HD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143132
